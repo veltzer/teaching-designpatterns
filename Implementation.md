@@ -158,7 +158,7 @@ Multi-layered Strawberry cake with double sprinkles and two sayings "One of" and
 Suggested output is: Multi-layered Strawberry cake with sprinkles with sprinkles with saying "One of" with saying "EVERYTHING"
 
 Sample output
-'''
+```txt
 Sample output from `bakery` package's Main.java
 
 
@@ -166,7 +166,7 @@ Sample output from `bakery` package's Main.java
    10  Vanilla cake with saying "PLAIN!"
    12  Vanilla cake with sprinkles with saying "FANCY!"
    29  Multi-layered Strawberry cake with sprinkles with sprinkles with saying "One of" with saying "EVERYTHING"
-'''
+```
 
 ## Constraints
 * Adding a new type of cake does not change any existing code (except to instantiate it)
