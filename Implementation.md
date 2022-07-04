@@ -1,5 +1,6 @@
 # Telephone
 The telephone package in the starter project contains partial code for making some parts of a (pretend!) telephone.
+See zip file for details.
 
 Change the code so that it uses the Observer Design Pattern as follows:
 
