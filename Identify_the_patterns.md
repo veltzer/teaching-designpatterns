@@ -23,7 +23,6 @@ Sometimes the names of classess reveal one of their design patterns blueprints.
 * [link](http://docs.oracle.com/javase/8/docs/api/java/nio/ByteBuffer.html#put-byte-)
 * [link](http://docs.oracle.com/javaee/7/api/javax/servlet/http/HttpServletRequestWrapper.html)
 * [link](http://docs.oracle.com/javaee/7/api/javax/servlet/http/HttpServlet.html)
-## [link](http://en.wikipedia.org/wiki/Behavioral_patternProxy)
 * [link](http://docs.oracle.com/javase/8/docs/api/java/util/Timer.html)
 * [link](http://docs.oracle.com/javase/8/docs/api/java/util/concurrent/Executor.html#execute-java.lang.Runnable-)
 * [link](http://docs.oracle.com/javaee/7/api/javax/servlet/http/HttpServlet.html)
