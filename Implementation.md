@@ -10,7 +10,7 @@ The first observer prints the newest digit out to the screen
 The second observer prints "Now dialing 12345678901..." out to the screen (where the number is the number the model has).
 
 Sample output
-'''
+```txt
 Sample output from `telephone` package's Main
 
 Pressing: 2
@@ -34,7 +34,7 @@ Pressing: 9
 Pressing: 2
 2
 Now dialing 2554817092...
-'''
+```
 
 ## Constraints
 * Only the UI can print to the screen
@@ -57,7 +57,7 @@ Change the model to, for each query (string from the file), check if an observer
 * One prints out "So long....! <query>" whenever the query is more than 60 characters long
 
 Sample Output:
-'''
+```txt
 Sample output from `websearch` package's Main.java
 
 Oh Yes!     Friends to this ground.
@@ -133,7 +133,7 @@ So long....     Enter KING CLAUDIUS, QUEEN GERTRUDE, LAERTES, Lords, OSRIC, and 
 So long....     LAERTES wounds HAMLET; then in scuffling, they change rapiers, and HAMLET wounds LAERTES
 Oh Yes!     O, yet defend me, friends; I am but hurt.
 So long....     A dead march. Exeunt, bearing off the dead bodies; after which a peal of ordnance is shot off
-'''
+```
 
 ## Constraints
 * The model should not know anything about the implementation of the query filter policy objects, other than they implement the required interface.
